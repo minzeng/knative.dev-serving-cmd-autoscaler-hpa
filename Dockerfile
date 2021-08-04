@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:e2a6d606d581cb3c34513617bd898e00ea8794f59481848901717964845d1603
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:81aea5b98d938b3762371e28387d4c3d0709e05d08c44ae56a13d0dfd7dc210a
 MAINTAINER Tony <tony@hostscc.com>
